@@ -1562,17 +1562,27 @@ body {
     display: block;
     margin: auto
 }
-#team6 h3 {
-    margin-top: 1.5em;
-    margin-bottom: 0;
+
+#team7{
+  height: 100rem;
 }
-#team6 h4 {
+
+#team7 h3{
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+#team7 h4 {
     margin-top: 0em !important
 }
+
 #team6 h3,
 #team6 h4 {
     text-align: center
 }
+
+#team7 h4,
+#team7 h3,
 #team5 h4,
 #team4 h3,
 #team3 h4,
@@ -4040,4 +4050,8 @@ State and Regional Officers
 }
 #decastate{
   color: #c0c0c0;
+}
+
+#decaofficers{
+  height: 43rem;
 }
