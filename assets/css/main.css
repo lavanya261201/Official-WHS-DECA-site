@@ -1521,6 +1521,15 @@ body {
     width: 60%;
     float: left
 }
+
+#legacy_team6 {
+    display: block;
+    margin: auto;
+    height: 110%;
+    width: 60%;
+    float: left
+}
+
 #legacy_student1 {
     display: block;
     margin: auto;
